@@ -1,0 +1,15 @@
+#specific files
+
+# dirs
+.bundle
+bin
+pkg
+
+# tempfiles
+*[~#]
+.#*
+*_flymake*
+/.emacs-project
+/.irbrc
+*_out
+*.log
